@@ -1,0 +1,18 @@
+Data Quality Analysis Report
+==================================================
+Total tokenized chunks: 860,891
+
+Sequence Length Statistics:
+  Mean: 350.25 tokens
+  Median: 399.00 tokens
+  Std Dev: 167.32 tokens
+  Min: 10 tokens
+  Max: 512 tokens
+
+Percentiles:
+  25th: 191.00 tokens
+  50th: 399.00 tokens
+  75th: 512.00 tokens
+  90th: 512.00 tokens
+  95th: 512.00 tokens
+  99th: 512.00 tokens
